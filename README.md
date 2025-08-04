@@ -148,24 +148,6 @@ The application includes comprehensive error handling for:
 - Empty task descriptions
 - Invalid task numbers
 
-## 🚀 Future Enhancements
-
-Potential improvements for future versions:
-- Task priorities and due dates
-- Task categories/tags
-- Search and filter functionality
-- Export to different formats (CSV, PDF)
-- GUI version using tkinter
-- Database integration
-
-## 🤝 Contributing
-
-This project is part of an internship assignment. For educational purposes, feel free to:
-1. Fork the repository
-2. Create a feature branch
-3. Make your improvements
-4. Submit a pull request
-
 ## 📝 License
 
 This project is created for educational purposes as part of a Python Developer Internship program.
@@ -173,8 +155,8 @@ This project is created for educational purposes as part of a Python Developer I
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@Ranjan Thakur](https://github.com/iranjanthakur)
+- Email: ranjanreignsthakur@gmail.com
 
 ## 🙏 Acknowledgments
 
