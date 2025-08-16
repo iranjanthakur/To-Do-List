@@ -6,6 +6,8 @@ A simple, console-based to-do list application built with Python for task manage
 
 This project was developed as part of the **Python Developer Internship** assignment. It implements a persistent command-line interface (CLI) to-do list manager that allows users to efficiently manage their daily tasks.
 
+<img src = Screenshot_2.png>
+
 ## ✨ Features
 
 - **Add Tasks**: Create new tasks with descriptions and timestamps
