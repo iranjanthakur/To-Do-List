@@ -40,8 +40,7 @@ This project was developed as part of the **Python Developer Internship** assign
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/todo-list-manager.git
-   cd todo-list-manager
+   git clone https://github.com/iranjanthakur/To-Do-List.git
    ```
 
 2. Run the application:
